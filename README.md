@@ -2,4 +2,4 @@
 
 I love ASB!
 
-Each Push, it need User name and Password for GitHub.
+To push to the GitHub, it needs User name and Password for GitHub.
